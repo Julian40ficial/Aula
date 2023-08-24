@@ -5,11 +5,6 @@ const PORTA= 5000;
 
 app.use(require("./routes/_routesIndex"));
 
-//  app.get ("/",(req,res) =>{
-//  res.send("entrou na rota do back")
-
-//  });
-
  
 
 app.use("/",(req,res)=>{

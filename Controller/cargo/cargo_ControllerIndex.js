@@ -6,3 +6,4 @@ module.exports = {
     ListarTodoscargos:ListarTodoscargos,
 ListarUmCargo:ListarUmCargo
 }
+// tvftrfv
